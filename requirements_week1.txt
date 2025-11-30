@@ -1,0 +1,6 @@
+# Week 1 Minimal Requirements (no ML yet)
+# Just enough to run the basic game with hand tracking
+
+opencv-python-headless
+mediapipe
+numpy<2.0
